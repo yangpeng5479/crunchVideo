@@ -9,7 +9,7 @@ import Vant from 'vant';
 import { Lazyload } from 'vant';
 
 import 'vant/lib/index.css';
-import './assets/font/font.css'
+import './assets/Font/font.css'
 
 // import Vconsole from 'vconsole';
 
